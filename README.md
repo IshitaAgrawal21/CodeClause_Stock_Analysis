@@ -11,6 +11,8 @@ It is a data science project made entirely on jupyter notebook, aiming at
    (ii) rolling sharpe ratio chart
    (iii) underwater plot chart
    (iv) realtime minute trading data graph, etc
+
+   
 In this project there are sevaral libraries which I have used in order to handle data more efficiently and to make the project more interactive-
 1. pandas
 2. yfinance
@@ -20,6 +22,4 @@ In this project there are sevaral libraries which I have used in order to handle
 6. pyfolio
 7. datetime
 8. matplotlib
-
-10. 
    
